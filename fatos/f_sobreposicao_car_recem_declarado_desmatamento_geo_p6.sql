@@ -1,0 +1,1 @@
+ALTER TABLE tm_sobreposicao.f_sobreposicao_car_recem_declarado_desmatamento_geo ADD CONSTRAINT f_sobreposicao_car_recem_declarado_desmatamento_pk PRIMARY KEY (id_f_sobreposicao_car_recem_declarado_desmatamento);
